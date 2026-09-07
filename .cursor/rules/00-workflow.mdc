@@ -1,0 +1,12 @@
+---
+description: Workflow obrigatório baseado em tarefas Markdown
+alwaysApply: true
+---
+
+- Toda mudança deve estar associada a uma tarefa Markdown.
+- Nunca apagar histórico do Execution Log.
+- Não marcar tarefa como concluída sem QA.
+- O Orchestrator controla a transição de estados.
+- Java e Angular consultam Context7 MCP quando documentação for necessária.
+- QA usa Paywriter MCP obrigatoriamente para validação de testes/tarefa.
+- Evidência deve registrar comandos executados e resultado.

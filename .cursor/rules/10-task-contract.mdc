@@ -1,0 +1,17 @@
+---
+description: Contrato de estrutura para tarefas
+alwaysApply: true
+---
+
+Cada tarefa deve possuir:
+- Metadata
+- Objective
+- Scope
+- Acceptance Criteria
+- Technical Plan
+- Agent Assignments
+- Test Plan
+- Execution Log
+- Evidence
+- QA Validation
+- Final Decision
